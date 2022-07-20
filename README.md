@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/klisostom/klisostom/blob/main/devcard.svg" width="400" alt="Klisóstom's Dev Card"/></a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klisostom)](https://github.com/klisostom/github-readme-stats)
