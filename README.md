@@ -22,9 +22,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: klis@pm.me
 ---
 
+<!--
 <a href="https://app.daily.dev/DailyDevTips">
   <img src="https://github.com/klisostom/klisostom/blob/main/devcard.svg" width="400" alt="Klisóstom's Dev Card"/>
 </a>
+-->
+<a href="https://app.daily.dev/klisostom"><img src="https://api.daily.dev/devcards/a48ed232c2b54c9298fa46e98613437d.png?r=qw8" width="400" alt="Klisostom's Dev Card"/></a>
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klisostom&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/klisostom/klisostom)
