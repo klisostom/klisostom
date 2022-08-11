@@ -27,7 +27,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/klisostom/klisostom/blob/main/devcard.svg" width="400" alt="Klisóstom's Dev Card"/>
 </a>
 -->
-<a href="https://app.daily.dev/klisostom"><img src="https://api.daily.dev/devcards/a48ed232c2b54c9298fa46e98613437d.png?r=qw8" width="400" alt="Klisostom's Dev Card"/></a>
+
+<a href="https://app.daily.dev/klisostom">
+  <img src="https://api.daily.dev/devcards/a48ed232c2b54c9298fa46e98613437d.png?r=qw8" width="400" alt="Klisostom's Dev Card"/>
+</a>
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klisostom&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/klisostom/klisostom)
@@ -50,6 +53,12 @@ Here are some ideas to get you started:
        height="200"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=klisostom&hide=java,htm,blade&layout=compact"
   />
+</a>
+
+---
+
+<a href="https://projecteuler.net/profile/klisostom.png">
+  <img src="https://projecteuler.net/profile/klisostom.png"  />
 </a>
 
 ---
