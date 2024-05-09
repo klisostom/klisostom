@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [C4W Labz](c4wlabz.com).
+- 🔭 I’m currently open to work.
 - 🌱 I’m currently learning functional and unit tests in react.
 - 📫 How to reach me: klis@pm.me
 ---
